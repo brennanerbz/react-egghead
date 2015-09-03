@@ -1,6 +1,6 @@
-# react-es6-webpack-boilerplate
+# react-egghead-tut
 
-A boilerplate app in es6 making use of webpack, react, and es6.
+Tutorial app using react, es6, webpack. 
 
 To run:
 
@@ -8,6 +8,3 @@ To run:
 npm install
 webpack -w
 ```
-# react-boilerplate
-# react-egghead
-# react-egghead
