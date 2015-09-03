@@ -1,5 +1,5 @@
 import React from 'react';
-import Body from './body.js'
+import Body from './home.js'
 
 class Main extends React.Component {
 
@@ -10,4 +10,4 @@ class Main extends React.Component {
 	}
 }
 
-React.render(<Main/>, document.getElementById('app'));
+export default Main;
